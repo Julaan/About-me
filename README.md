@@ -5,7 +5,7 @@ My name is Juliana Hjörringgaard. It’s great connecting with you.
 
 Made in Rio de Janeiro, Brazil but having Sweden as home for the last 18 years. 
 
-Constantly expanding my tech skills.
+Constantly expanding my tech skills. Feel free to follow my steps in this journey 🚀.
 
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Julaan&show_icons=true" /></a>
